@@ -1,0 +1,1 @@
+A Hash Table is a data structure where data is stored in an associative manner. Data is stored in an array format, with every data value having an exclusive or unique index value. This type of storage offers quick access to data if the index of the data required is available.
