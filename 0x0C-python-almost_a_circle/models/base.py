@@ -63,7 +63,8 @@ class Base:
             return []
         with open(file, "r", encoding="utf-8") as f:
             return [cls.create(**d) for d in cls.from_json_string(f.read())]
-        @classmethod
+
+    @classmethod
     def save_to_file_csv(cls, list_objs):
         '''Saves object to csv file.'''
         from models.rectangle import Rectangle
