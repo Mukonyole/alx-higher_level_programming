@@ -1,0 +1,1 @@
+SQL stands for Structured Query Language, and it's a programming language used to store and process data in relational databases. Relational databases store data in tables, with rows and columns representing different data attributes and relationships.
