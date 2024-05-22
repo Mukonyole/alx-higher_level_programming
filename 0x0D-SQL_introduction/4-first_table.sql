@@ -2,4 +2,3 @@
 CREATE table IF NOT EXISTS first_table('id' INT, 'name' VARCHAR(256));
 
 #4
-ALL YOU HAVE TO START WITH COMMENTS
