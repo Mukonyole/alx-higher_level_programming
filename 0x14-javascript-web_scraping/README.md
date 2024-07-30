@@ -1,0 +1,1 @@
+Web scraping is the process of using software to extract data and content from websites. It's also known as web harvesting or web data extraction. Web scraping software can access the World Wide Web using a web browser or the Hypertext Transfer Protocol (HTTP).
